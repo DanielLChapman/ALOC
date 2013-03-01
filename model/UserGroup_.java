@@ -11,8 +11,3 @@ public class UserGroup_
   public static volatile SingularAttribute<UserGroup, String> name;
   public static volatile SetAttribute<UserGroup, EquipmentType> permissions;
 }
-
-/* Location:           /Users/Rusty-Mac/Downloads/ALOC_EDS/ALOC_v2.jar
- * Qualified Name:     model.UserGroup_
- * JD-Core Version:    0.6.2
- */
