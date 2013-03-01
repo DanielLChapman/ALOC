@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.3
+Created-By: 1.7.0_06-b24 (Oracle Corporation)
+Class-Path: lib/mysql-connector-java-5.1.18-bin.jar lib/eclipselink-2.
+ 3.2.jar lib/javax.persistence-2.0.3.jar lib/org.eclipse.persistence.j
+ pa.jpql_1.0.1.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: control.ALOCMain
+
