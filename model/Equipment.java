@@ -156,8 +156,3 @@
 /* 213 */     this.borrowed = borrowed;
 /*     */   }
 /*     */ }
-
-/* Location:           /Users/Rusty-Mac/Downloads/ALOC_EDS/ALOC_v2.jar
- * Qualified Name:     model.Equipment
- * JD-Core Version:    0.6.2
- */
