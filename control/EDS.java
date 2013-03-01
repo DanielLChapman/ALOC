@@ -450,8 +450,3 @@
 /* 465 */     this.currentLogin = currentLogin;
 /*     */   }
 /*     */ }
-
-/* Location:           /Users/Rusty-Mac/Downloads/ALOC_EDS/ALOC_v2.jar
- * Qualified Name:     control.EDS
- * JD-Core Version:    0.6.2
- */
