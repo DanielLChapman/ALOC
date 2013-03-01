@@ -157,8 +157,3 @@
 /* 207 */     this.groups = groups;
 /*     */   }
 /*     */ }
-
-/* Location:           /Users/Rusty-Mac/Downloads/ALOC_EDS/ALOC_v2.jar
- * Qualified Name:     model.EDSUser
- * JD-Core Version:    0.6.2
- */
