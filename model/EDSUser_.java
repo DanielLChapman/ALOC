@@ -16,8 +16,3 @@ public class EDSUser_
   public static volatile SingularAttribute<EDSUser, Integer> idNumber;
   public static volatile SetAttribute<EDSUser, Equipment> reservations;
 }
-
-/* Location:           /Users/Rusty-Mac/Downloads/ALOC_EDS/ALOC_v2.jar
- * Qualified Name:     model.EDSUser_
- * JD-Core Version:    0.6.2
- */
