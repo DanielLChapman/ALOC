@@ -107,8 +107,3 @@
 /* 150 */     return true;
 /*     */   }
 /*     */ }
-
-/* Location:           /Users/Rusty-Mac/Downloads/ALOC_EDS/ALOC_v2.jar
- * Qualified Name:     model.Employee
- * JD-Core Version:    0.6.2
- */
