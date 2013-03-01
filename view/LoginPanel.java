@@ -76,8 +76,3 @@
 /*     */     }
 /*     */   }
 /*     */ }
-
-/* Location:           /Users/Rusty-Mac/Downloads/ALOC_EDS/ALOC_v2.jar
- * Qualified Name:     view.LoginPanel
- * JD-Core Version:    0.6.2
- */
